@@ -1,0 +1,11 @@
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.hero-title {
+    color: rgb(32,35,41);
+    font-weight: 900;
+    font-size: 5.625rem ;
+    padding: 40px 0;
+}
